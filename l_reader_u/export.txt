@@ -1,0 +1,15 @@
+{
+global:
+P_Initialize;
+P_Finalize;
+P_GetSlotListName;
+P_Open;
+P_Close;
+P_SendApduComm;
+P_Reset;
+P_IsOpened;
+P_GetCosType;
+P_GetSlotList;
+P_GetSlotInfo;
+local:*;
+};
